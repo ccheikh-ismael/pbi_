@@ -1,0 +1,13 @@
+Cluster,Segment_Label,Nb_Clients,Tx_Sum_Moy,Freq_Moy_Moy,Recency_Med
+0,Premium (valeur & frequence elevees),9,19406.873333333337,1.3361111111111112,25.0
+0,Regulier,9,10700.72111111111,1.3944444444444446,77.0
+0,Ticket moyen eleve,1,20078.14,1.2,6.0
+1,Inactif / A reactiver,4,3752.705,1.0,255.0
+1,Regulier,3,10693.713333333333,1.0,39.0
+1,Ticket moyen eleve,4,11133.85,1.0,95.5
+2,Inactif / A reactiver,1,880.56,1.0,127.0
+2,Regulier,10,5344.553,0.9,26.5
+2,Ticket moyen eleve,1,6085.12,1.0,39.0
+3,Inactif / A reactiver,2,2925.625,1.0,305.5
+3,Regulier,5,6472.324,1.0666666666666667,83.0
+3,Ticket moyen eleve,1,8903.15,1.0,55.0
