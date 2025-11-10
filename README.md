@@ -1,2 +1,3 @@
-# pbi_
-Pour la partie bonus du projet de PBI
+# Repos PowerBI
+
+Pour la partie 2 du projet ainsi que le bonus du projet de PowerBI
