@@ -97,8 +97,13 @@ Le projet **Bankia 2025** illustre l’intégration complète d’une solution *
 ---
 
 ## Equipe
+
 Waï Lekone
+
 Patricia Koto
+
 Bintou Diop
+
 Jiwon YI
+
 Cheikh Ismaël COULIBALY
